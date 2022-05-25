@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MALAGA-OCIO</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_pubs">Maps_Pubs</string>
+    <string name="title_activity_maps_discos">Maps_Discos</string>
+    <string name="title_activity_maps_turismo">Maps_turismo</string>
+</resources>
